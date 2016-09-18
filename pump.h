@@ -4,6 +4,7 @@
 #include <Arduino.h>
 #include "time.h"
 
+// Pump
 class Pump {
 
   bool state;       // Pump is ON / OFF
